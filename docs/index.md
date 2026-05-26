@@ -15,15 +15,13 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 空间转录组
+    details:空间转录组的预测
+  - title: Linux运维
+    details: linux运维常识
+  - title: 实验日志
+    details: 实验结果记录
+  - title: AI学习
+    details: 理论学习记忆
 ---
 
-\- 空间转录组
-\- AI学习
-\- Linux运维
-\- 实验日志
