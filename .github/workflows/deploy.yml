@@ -2,8 +2,8 @@ name: Deploy VitePress site to Pages
 
 on:
   push:
-    branches:
-      - main
+
+
 
 permissions:
   contents: read
