@@ -23,3 +23,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+\- 空间转录组
+\- AI学习
+\- Linux运维
+\- 实验日志
